@@ -7,5 +7,6 @@
         
     },
     "maxAnonymousRunsPerDay": 99999999,
-    "maxAnonymousCallsPerDay": 99999999
+    "maxAnonymousCallsPerDay": 99999999,
+    "screenshotWidth": 900
 }
